@@ -39,7 +39,7 @@ public interface StringList {
 
         // Проверка на существование элемента.
         // Вернуть true/false;
-        boolean contains(Integer item);
+        boolean contains(String item);
 
         // Поиск элемента.
         // Вернуть индекс элемента
